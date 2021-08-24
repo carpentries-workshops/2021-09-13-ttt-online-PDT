@@ -84,7 +84,7 @@ locations:
   need any particular technical background, and we will not be
   teaching that. This workshop is based on the constantly revised and
   updated
- <a href="{{ site.training_site }}">curriculum</a>.
+ <a href="https://data-lessons.github.io/instructor-training/">curriculum</a>.
 </p>
 
 <!--
